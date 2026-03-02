@@ -1,0 +1,5 @@
+{
+  "name": "MFIT Personal Dashboard",
+  "description": "A personal trainer dashboard app with Veo video generation integration.",
+  "requestFramePermissions": []
+}
